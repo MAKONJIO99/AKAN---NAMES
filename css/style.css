@@ -11,8 +11,13 @@ body{
 
 /*styling the butto*/
 .button1 {
-    background-color: white;
+    background-color: lime;
     color: #f15a29;
     border: 2px solid #f15a29;
+    
+  }
+  .jumbotron{
+      background-color: #ffff;
+      margin-top: 10px;
   }
 
