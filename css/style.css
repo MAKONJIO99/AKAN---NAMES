@@ -8,3 +8,11 @@ body{
   -o-background-size: cover;
     background-attachment: fixed;
 }
+
+/*styling the butto*/
+.button1 {
+    background-color: white;
+    color: #f15a29;
+    border: 2px solid #f15a29;
+  }
+
