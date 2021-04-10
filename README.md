@@ -19,6 +19,6 @@ To access this project on your local files, you can clone it using these steps
 1. Git
 1. JS
 ### Live Site
-View [live]()
+View [live](https://makonjio99.github.io/AKAN---NAMES/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
