@@ -63,6 +63,9 @@ function getAkanName () {
         "AKOSUA", "ADWOA", "ABENAA", "AKUA", "YAA", "AFUA", "AMA"
       ];
   
+       //making sure that the input is valid
+    if (myGenderValue == "male" && monthValid && dayValid){
+        switch (dayOfWeekNumber) {
   
     
   
